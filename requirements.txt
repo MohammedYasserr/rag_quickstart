@@ -1,3 +1,5 @@
 langchain
 pydantic
-unittest
+unittest2
+langchain_openai
+dotenv
