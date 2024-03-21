@@ -2,4 +2,4 @@ langchain
 pydantic
 unittest2
 langchain_openai
-dotenv
+python-dotenv
